@@ -1,13 +1,13 @@
-Walmart Sales Data Analysis
+**Walmart Sales Data Analysis**
 
 Welcome to our exploration of Walmart Sales data, where we delve into the intricacies of top-performing branches and products, analyze sales trends across various product categories, and decipher customer behavior. Our primary objective is to gain insights that can enhance and optimize sales strategies. The dataset we are leveraging originates from the Kaggle Walmart Sales Forecasting Competition.
 
 In this engaging competition, participants are tasked with interpreting historical sales data from 45 Walmart stores situated in diverse regions. Each store comprises numerous departments, and the challenge lies in accurately forecasting sales for each department within each store. Complicating matters further, the dataset includes selected holiday markdown events. These markdowns are recognized to impact sales, yet the complexity lies in predicting the specific departments affected and the extent of their influence. (Source)
 
-Purposes Of The Project
+**Purposes Of The Project**
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
-About Data
+**About Data**
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
 Column	Description	Data Type
@@ -35,10 +35,10 @@ Conduct analysis on the data to understand the different product lines, the prod
 Sales Analysis
 This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
 
-Customer Analysis
+**Customer Analysis**
 This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
-Approach Used
+**Approach Used**
 Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
 Build a database
 Create table and insert the data.
@@ -49,7 +49,7 @@ Add a new column named day_name that contains the extracted days of the week on 
 Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.
 
-Conclusion:
+**Conclusion:**
 
 Business Questions To Answer
 Generic Question
